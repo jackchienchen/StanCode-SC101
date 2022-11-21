@@ -2,7 +2,7 @@
 ### *based on Stanford’s CS106B*
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### - Project 1: BOUNCING BALL
-Demonstrate contents: Basic use of Object Oriented Programming 
+##### Demonstrate contents: Basic use of Object Oriented Programming 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### - Project 2: BREAKOUT GAME
 Demonstrate contents: Advanced use of Object Oriented Programming 
@@ -17,7 +17,7 @@ Demonstrate contents: use of combination of data structure and Web Crawler(Beaut
 ##### Watch my *[DEMO VIDEO].(https://drive.google.com/file/d/1P8nYnClraNfHXDeXxAwf59B3fniKoKIg/view?usp=share_link)*
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### - Project 5: ANAGRAM
-Demonstrate contents: use of recursion in algorithm
+##### Demonstrate contents: use of recursion in algorithm
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### - Project 6: BOGGLE GAME
 Demonstrate contents: use of data structure and linked list
