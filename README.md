@@ -5,7 +5,7 @@
 ##### Demonstrate contents: Basic use of Object Oriented Programming 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### - Project 2: BREAKOUT GAME
-Demonstrate contents: Advanced use of Object Oriented Programming 
+Demonstrate contents: Advanced application on Object Oriented Programming 
 ##### Watch my *[DEMO VIDEO].(https://drive.google.com/file/d/1Ej5yWa62DE9ItMnI4mwxOW8IjC1IFnni/view?usp=share_link)*
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### - Project 3: StanCode PhotoShop
